@@ -1,1 +1,68 @@
 /* your code here */
+*{
+	color:white;
+	text-decoration:none;
+	padding:0;
+}
+.logo-details{
+	font-size:50px;
+	color:white;
+}
+.content{
+		background-color:black;
+}
+ 
+.top{
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+	padding:30px;
+}
+ 
+.media-icons a{
+	margin-right: 20px;
+}
+ 
+.link-boxes ul li {
+	list-style:none;
+	color:gray;
+}
+.link-boxes ul li a{
+	color:gray;
+}
+ 
+.link-boxes{
+	display:flex;
+	justify-content:space-between;
+}
+ 
+.link-boxes ul{
+	color:white;
+}
+ 
+.link-boxes h2{
+	color:white;
+}
+ 
+.link-boxes div:first-child{
+	margin-left:30px;
+}
+ 
+.link-boxes div:first-child{
+	margin-left:30px;
+}
+ 
+.link-boxes div:last-child{
+	margin-right:30px;
+}
+ 
+.bottom-details{
+	background-color:gray;
+	padding:5px;
+	display:flex;
+	justify-content:space-between;
+}
+.media-icons{
+	display:flex;
+}
+ 
